@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("turbo-lamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57824f1b133ad6487dc61a8caecb3d7ba3e2133b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b50db4bb5527a077ba928f4302125f38c65f7ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("turbo-lamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("turbo-lamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

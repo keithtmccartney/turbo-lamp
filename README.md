@@ -9,3 +9,4 @@
 * az group create --name az204-svcbus-rg --location uksouth;
 * az servicebus namespace create --resource-group az204-svcbus-rg --name turbolamp --location uksouth;
 * az servicebus queue create --resource-group az204-svcbus-rg --namespace-name turbolamp --name az204-queue;
+* az group delete --name az204-svcbus-rg --no-wait;
